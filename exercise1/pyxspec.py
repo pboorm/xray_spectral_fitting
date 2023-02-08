@@ -1,5 +1,8 @@
 """
 Exercise 1, PyXspec
+
+Run these in an interactive python session (e.g., ipython) line by line.
+
 """
 from xspec import *
 
