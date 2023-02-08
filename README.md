@@ -11,6 +11,14 @@ the Handbook of X-ray and Gamma-ray Astronomy, Section XVI.
 Each directory should contain a solution in PyXspec and Sherpa to each exercise,
 named either pyxspec.py or sherpa.py.
 
+Keep these manuals handy:
+
+ * pyxspec extended tutorial https://heasarc.gsfc.nasa.gov/docs/xanadu/xspec/python/html/extended.html
+ * pyxspec quick tutorial https://heasarc.gsfc.nasa.gov/docs/xanadu/xspec/python/html/quick.html
+ * sherpa tutorials: https://asc.harvard.edu/sherpa/threads/index.html
+ * sherpa command reference: https://asc.harvard.edu/sherpa/ahelp/index_alphabet.html
+ * BXA: https://johannesbuchner.github.io/BXA/
+
 ## Contributing
 
 For missing solutions to the exercises, contributions are welcome!
