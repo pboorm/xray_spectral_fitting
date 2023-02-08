@@ -3,7 +3,7 @@ Exercise 3, PyXspec
 """
 import subprocess
 
-ftgrouppha_str = ""
+ftgrouppha_str = "ftgrouppha"
 ftgrouppha_str += " infile=fpma_60ks.pha"
 ftgrouppha_str += " backfile=fpma_60ks_bkg.pha"
 ftgrouppha_str += " outfile=fpma_60ks_bmin1.pha"
