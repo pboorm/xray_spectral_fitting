@@ -4,7 +4,8 @@ Welcome!
 
 Here you can find all code used in the exercises, plots and analysis of the 
 "Spectral Aspects of X-ray Spectral Analysis" textbook chapter for
-the Handbook of X-ray and Gamma-ray Astronomy, Section XVI.
+the Handbook of X-ray and Gamma-ray Astronomy, Section XVI,
+available at https://arxiv.org/abs/2309.05705 .
 
 ## Getting started
 
